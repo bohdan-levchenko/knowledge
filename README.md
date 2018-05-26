@@ -1,3 +1,9 @@
+## Java
+
+### References
+
+* [Weak Soft and Phantom references in Java and why they matter](https://medium.com/@ramtop/weak-soft-and-phantom-references-in-java-and-why-they-matter-c04bfc9dc792)
+
 ## RDBMS
 
 ### ACID and Transactions

@@ -1,5 +1,9 @@
 ## Java
 
+### Spring Testing
+
+[Spring App Tactics](https://www.youtube.com/playlist?list=PLjXUjSTUHs0SBkPlUEnkXcDqQKlyUOyAS) by Baeldung
+
 ### References
 
 * [Weak Soft and Phantom references in Java and why they matter](https://medium.com/@ramtop/weak-soft-and-phantom-references-in-java-and-why-they-matter-c04bfc9dc792)
